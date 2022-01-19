@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.0979e682.css",
-    "main.js": "/static/js/main.d06c3927.js",
-    "index.html": "/index.html",
-    "main.0979e682.css.map": "/static/css/main.0979e682.css.map",
-    "main.d06c3927.js.map": "/static/js/main.d06c3927.js.map"
+    "main.css": "/color-ball-page/static/css/main.0979e682.css",
+    "main.js": "/color-ball-page/static/js/main.b0e86f87.js",
+    "index.html": "/color-ball-page/index.html",
+    "main.0979e682.css.map": "/color-ball-page/static/css/main.0979e682.css.map",
+    "main.b0e86f87.js.map": "/color-ball-page/static/js/main.b0e86f87.js.map"
   },
   "entrypoints": [
     "static/css/main.0979e682.css",
-    "static/js/main.d06c3927.js"
+    "static/js/main.b0e86f87.js"
   ]
 }
